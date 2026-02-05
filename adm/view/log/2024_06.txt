@@ -1,0 +1,59 @@
+2024-06-07 01:25:44 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-07 01:27:07 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-07 01:28:17 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-09 20:05:27 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-09 20:05:32 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-09 20:05:39 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-09 20:05:47 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-09 20:08:02 - ::1 - Login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip ::1.
+2024-06-15 01:11:46 - 127.0.0.1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip 127.0.0.1.
+2024-06-15 01:11:51 - 127.0.0.1 - Erro no login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip 127.0.0.1.
+2024-06-15 01:12:13 - ::1 - Erro no login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip ::1.
+2024-06-15 01:12:28 - ::1 - Login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip ::1.
+2024-06-15 01:28:15 - ::1 - Login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip ::1.
+2024-06-15 01:44:16 - ::1 - Falha na criação de um novo adm2024-06-16 18:45:48 - ::1 - Login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip ::1.
+2024-06-16 20:41:27 - ::1 - Erro no login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip ::1.
+2024-06-16 20:41:32 - ::1 - Erro no login do administrador stelamontenegro21@gmail.com pelo dispositivo de ip ::1.
+2024-06-16 20:41:39 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-16 21:12:28 - ::1 - Falha na criação de um novo adm2024-06-16 21:14:03 - ::1 - Falha na criação de um novo adm2024-06-16 21:16:53 - ::1 - Falha na criação de um novo adm2024-06-16 21:17:13 - ::1 - Falha na criação de um novo adm2024-06-16 21:17:38 - ::1 - Falha na criação de um novo adm2024-06-16 21:24:53 - ::1 - Falha na criação de um novo adm2024-06-16 21:25:58 - ::1 - Falha na criação de um novo adm2024-06-16 21:26:45 - ::1 - Falha na criação de um novo adm2024-06-16 21:27:51 - ::1 - Criação do administrador stelamontenegro3@gmail.com2024-06-16 21:28:23 - ::1 - Exclusão do adminstrador 5 2024-06-16 21:30:44 - ::1 - Exclusão do adminstrador 4 2024-06-16 21:32:00 - ::1 - Exclusão do adminstrador 3 2024-06-16 21:35:43 - ::1 - Criação do administrador stelamontenegro3@gmail.com2024-06-16 21:36:45 - ::1 - Criação do administrador stelamontenegro3@gmail.com2024-06-16 21:37:43 - ::1 - Criação do administrador lucas@gmail.com2024-06-16 21:38:03 - ::1 - Criação do administrador lucas@gmail.com2024-06-16 21:39:32 - ::1 - Criação do administrador lucas@gmail.com2024-06-16 21:39:50 - ::1 - Criação do administrador lucas@gmail.com2024-06-16 21:47:28 - ::1 - Criação do administrador lucas@gmail.com2024-06-16 21:51:53 - ::1 - Criação do administrador lucas@gmail.com2024-06-16 21:59:25 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-16 23:06:39 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-16 23:21:03 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-17 00:00:12 - ::1 - Exclusão do adminstrador 1 2024-06-17 00:00:16 - ::1 - Exclusão do adminstrador 13 2024-06-17 00:00:20 - ::1 - Exclusão do adminstrador 12 2024-06-17 00:00:25 - ::1 - Exclusão do adminstrador 11 2024-06-17 00:00:29 - ::1 - Exclusão do adminstrador 10 2024-06-17 00:00:34 - ::1 - Exclusão do adminstrador 9 2024-06-17 00:00:38 - ::1 - Exclusão do adminstrador 8 2024-06-17 00:00:41 - ::1 - Exclusão do adminstrador 7 2024-06-17 00:00:45 - ::1 - Exclusão do adminstrador 2 2024-06-17 00:13:03 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-17 00:13:08 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-17 02:21:40 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-17 02:21:44 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-17 02:37:03 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-17 02:37:08 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-17 22:56:56 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-18 00:11:54 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 00:26:34 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:23:32 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:23:37 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:23:49 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:23:52 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:25:06 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:25:11 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:31:25 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:31:35 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:31:44 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-06-26 02:32:20 - ::1 - Erro no login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:34:28 - ::1 - Erro no login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:42:23 - ::1 - Erro no login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:52:53 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:53:33 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:53:39 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:54:11 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:54:43 - ::1 - Erro no login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:54:48 - ::1 - Erro no login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:55:19 - ::1 - Erro no login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:55:50 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:56:43 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:57:23 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:58:52 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:59:09 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 02:59:20 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 03:02:57 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 03:04:13 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 03:04:26 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 03:05:00 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.
+2024-06-26 03:05:52 - ::1 - Login do administrador stela@g.com pelo dispositivo de ip ::1.

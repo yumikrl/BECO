@@ -1,0 +1,263 @@
+@font-face {
+    font-family: radikal-medium;
+    src: url(../Radikal/Nootype\ -\ Radikal\ Medium.otf);
+  }
+  @font-face {
+    font-family: radikal-bold;
+    src: url(../Radikal/Nootype\ -\ Radikal\ Bold.otf);
+  }
+  @font-face {
+    font-family: radikal-light;
+    src: url(../Radikal/Nootype\ -\ Radikal\ Thin.otf);
+  }
+:root{
+    /*****  cores  *****/
+    --body-color: #edebfa;
+    --sidebar-color: #ffffff;
+     --primary-color: lightblue;
+    /*--secondary-color:;
+    --toogle-color:; */
+    --text-color:#707070;
+
+    /* transições */
+
+    --tran-02: all 0.2s ease;
+    --tran-03: all 0.3s ease;
+    --tran-04: all 0.4s ease;
+    --tran-05: all 0.5s ease 
+
+    /***** tipografia *****/
+    
+
+}
+
+body{
+  background-color: transparent !important ;
+}
+
+/*======================= CSS CARD SUPERIORES ==========================*/
+.dashboard-upper-cards{
+    min-width:24.3%;
+    align-items: center;
+    display: flex;
+    border-radius: 6px;
+    background-color: var(--sidebar-color);
+}
+.upper-cards-row, .upper-cards-col{
+  margin-bottom: 1%;
+    width: 100vw;
+  
+}
+.upper-cards-row{
+    justify-content: space-between;
+    height: 15vh;
+}
+
+.upper-cards-col .upper-card{
+
+    list-style: none;
+    width: 100%;
+    height: 90%;
+    align-items: center;
+    display: flex;
+    flex-direction: inline;
+    justify-content: center;
+}
+.dashboard-upper-cards{
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+.text-card {
+    flex-direction: column;
+    display: flex;
+
+text-decoration: none !important;
+margin-left: 15px;
+}
+
+.text-card .data-card{
+color: black;
+font-family: radikal-medium;
+font-size: 1.6em;
+}
+.text-card .name-card{
+  color: var(--text-color);
+  margin-top: -5px;
+
+}
+.icon-card{
+  background-color: var(--body-color);
+  padding: 15px 15px;
+  border-radius: 50%;
+}
+.icon-card svg{
+  stroke:#9c9bff;
+}
+
+
+
+/*************  CSS GRAFICOS ******************/
+
+.row-one{
+  margin-bottom: 1%;
+}
+.graphic-col{
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  background-color: var(--sidebar-color);
+  border-radius: 6px;
+  padding: 0;
+  align-items: center;
+  justify-content: left;
+  display: flex;
+  padding: 20px 20px !important;
+display: table;
+  
+}
+.chart-one{
+  font-family: radikal-light;
+  margin-top: 10px;
+max-height: 32vh;
+max-width: 70vw;
+}
+.col-row{
+  justify-content: space-between;
+}
+
+.curve_chart{
+  font-family: radikal-light;
+margin-left: -10px;
+font-size: 2em;
+}
+.graphic-one-title{
+  font-family: radikal-medium;
+  font-size: 1.2em;
+  
+}
+.chart_view{
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  max-height: 28vh;
+  margin-top: 10px;
+}
+
+.graphic-pie{
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  min-width: 24%;
+  background-color: var(--sidebar-color);
+  align-items: center;
+  margin-left: 10px;
+  border-radius: 6px;
+  padding: 20px ;
+  justify-content: center;
+}
+.canvas-div-pie{
+ min-height: 100%;
+ min-width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  
+}
+
+.canvas-div-pie > canvas {
+  display: flex;
+  max-width: 30vh;
+  max-height: 30vh;
+  padding-top: -15px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.list-col{
+  
+  background-color: var(--sidebar-color);
+border-radius: 6px;
+min-width:24%;
+padding: 20px ;
+}
+
+
+.number-publi{
+  font-size: 1.6em;
+}
+.number{ 
+font-size: 2em;
+}
+
+
+/*calendáro*/
+
+.ui-datepicker{
+  border:none;
+}
+
+
+#calendar-container {
+    max-height: min-content;
+  font-family:radikal-medium ;
+  text-align: center;
+padding-top: -5px;}
+
+#month-year-container {
+  margin-top: -10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+
+#month-year {
+  cursor: pointer;
+  font-size: 1.2em;
+}
+
+#prev-month, #next-month{
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  
+}
+
+
+
+#calendar {
+  font-size: 0.7em;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 1px;
+}
+
+.day, .header {
+  
+  cursor: pointer;
+  padding: 8px;
+  border: none;
+}
+.day{
+  
+  transition: 0.2s;
+  font-family:radikal-light;
+}
+.day:hover{
+  cursor: pointer;
+  transform: scale(0.7);
+  transition: 0.2s;
+}
+
+.today {
+  background-color:  rgb(156, 155, 255);
+  color:#ffffff;
+
+  font-family:radikal-medium;
+  border-radius: 6px;
+}
+
+/* Animação de fade */
+.fade {
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.fade.show {
+  opacity: 1;
+}

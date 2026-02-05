@@ -1,0 +1,277 @@
+@font-face {
+    font-family: radikal-medium;
+    src: url(../Radikal/Nootype\ -\ Radikal\ Medium.otf);
+  }
+  @font-face {
+    font-family: radikal-bold;
+    src: url(../Radikal/Nootype\ -\ Radikal\ Bold.otf);
+  }
+  @font-face {
+    font-family: radikal-light;
+    src: url(../Radikal/Nootype\ -\ Radikal\ Thin.otf);
+  }
+:root{
+    /*****  cores  *****/
+    --body-color: #eeedf7;
+    --sidebar-color: #ffffff;
+     --primary-color: lightblue;
+    /*--secondary-color:;
+    --toogle-color:; */
+    --text-color:#707070;
+
+    /* transições */
+
+    --tran-02: all 0.2s ease;
+    --tran-03: all 0.3s ease;
+    --tran-04: all 0.4s ease;
+    --tran-05: all 0.5s ease 
+
+    /***** tipografia *****/
+    
+
+}
+body{
+    height: 100%;
+    background-color: var(--body-color);
+    font-family: url('../Radikal/Nootype\ -\ Radikal\ Medium.otf');
+}
+
+/*********   barra lateral   *********/
+
+
+.sidebar{
+    position:fixed;
+    top:0;
+    left:0;
+    height: 100%;
+    padding: 20px 15px;
+    width: 280px;
+    background-color: var(--sidebar-color);
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    
+}
+.sidebar .image-text img{
+    width: 50px ;
+    border-radius: 6px;
+}
+.sidebar header .image-text{
+    
+    display: flex;
+    padding: 15px;
+    align-items: center ;
+    font-family: radikal-medium;
+    color: var(--text-color);
+    margin-bottom: 15px;
+}
+.image-text:hover{
+ cursor:pointer;
+}
+.sidebar .text{
+    font-size: 1.2em;
+}
+.sidebar li{
+    list-style: none;
+    text-decoration: none;
+    height: 60px;
+    margin-top:10px;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    transition: var(--tran-04);
+}
+.sidebar li:hover{
+    background-color: transparent;
+    color: #9c9bff !important;
+    
+   transition: 0.2s ease;
+}
+
+.sidebar li:hover a, .sidebar li:hover .icon{
+   stroke: #9c9bff;
+   color: #9c9bff ;
+   transition: 0.2s ease;
+}
+.sidebar li a{
+    font-family: radikal-medium;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    font-size: 100%;
+    
+   transition: 0.2s ease;
+}
+
+.sidebar li .icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 60px;
+    
+   transition: 0.2s ease;
+}
+.sidebar .image{
+    min-width:60px;
+    display:flex;
+    align-items:center;
+}
+
+header .image-text .header-text{
+    display: flex;
+    flex-direction: column;
+    
+}
+.profession{
+    font-size: 80%;
+    
+}
+.name{
+    font-size: 120%;
+}
+.bottom-content{
+    height: 100%;
+    margin-top: 80%;
+    align-items: end;
+}
+
+
+/*searchbar e perfil */
+
+
+.lupa-buscar{
+    background-color: transparent;
+    border: none;
+    outline: none !important;
+  }
+.top-content{
+    height: 10vh;
+    align-items: center;
+    display: flex;
+    width: calc(100%-88px);
+   left: 8cm;
+   margin: 0;
+   position: relative;
+    
+}
+.top-content .nav-link {
+    list-style: none !important;
+    text-decoration: none !important;
+    height: 40px !important;
+    background-color: var(--sidebar-color);
+    color: var(--text-color) !important;
+    display: flex;
+    padding: 10px 15px !important;
+    align-items: center;
+    border-radius: 6px !important;
+    transition: var(--tran-04);
+}
+.top-content .searchbar{
+    width: calc(100vw - 40vw);
+    height: 40px;
+    color: var(--text-color);
+    font-size: 1.1em;
+    outline:none;
+    margin-left: 10px;
+    font-family: radikal-light;
+    border-radius: 6px;
+    border:none;
+   background-color: var(--sidebar-color);
+    
+}
+.top-content .nav-link-profile-dropdown{
+    list-style: none;
+    text-decoration: none;
+    height: 40px;
+    background-color: var(--sidebar-color);
+    color: var(--text-color);
+    display: flex;
+    padding: 10px 20px 10px 15px;
+    align-items: center;
+    width: 90%;
+    margin-left: 50px;
+    border-radius: 6px;
+    transition: var(--tran-04);
+}
+.top-content .nav-link-notifications{
+    padding: 10px 10px !important;
+    margin-left: 30px;
+}
+.top-content .nav-link-notifications a{
+    margin-top: 5px;
+}
+.top-content .nav-link-profile-dropdown a{
+font-family: radikal-medium;
+text-decoration: none;
+margin-left: 8px;
+display: flex;
+}
+
+.top-content .profile-name{
+   min-width: 2cm ;
+}
+.top-content{
+    width: calc(100vw - 20vw) ;
+    justify-content: space-between;
+}
+
+iframe{
+    width: calc(100vw - 20vw);
+    margin-left: 8cm;
+    height: 85vh;
+    display: flex;
+    background-color: var(--body-color);
+}
+
+
+/*MODAL-----------------------------*/
+ .pfp-circle img{
+  border-radius: 50%;
+  max-width: 16vh;
+  max-height: 18vh;
+}
+.modal-dialog {
+    max-width: 35%; 
+}
+.modal-profile{
+    padding: 30px 25px;
+    border-radius: 15px;
+    width: 120%;
+}
+
+.modal-title {
+    margin-left: 20px;
+}
+.motal-title span {
+    
+    font-family: radikal-bold !important;
+    display: block;
+    width: 100vw;    
+    margin-top: 20px;
+    font-size: 1.5em;
+    
+}
+
+.spacing-right {
+    padding-right: 30px;
+}
+
+.info-title{
+    margin-top: 20px;
+    font-family: radikal-bold !important;
+    font-size: 1.2em;
+}
+.label-upper{
+    font-family: radikal-medium;
+    font-size: 0.8em;
+    margin-bottom: -5px;
+    color: #a3a3a3;
+}
+.input-bottom{
+    border: none !important;
+    font-family: radikal-medium;
+    font-size: 1em;
+    width: 180%;
+    outline: none !important;
+}

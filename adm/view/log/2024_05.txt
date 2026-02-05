@@ -1,0 +1,36 @@
+2024-05-07 22:10:33 - ::1 - Novo usuário stelamontenegro3@gmail.com inserido na tabela cliente_temp.
+2024-05-07 22:13:03 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:13:38 - ::1 - Erro no login do administrador stela@pizzaetec.com pelo dispositivo de ip ::1.
+2024-05-07 22:14:00 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:22:07 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:22:13 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:22:53 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:22:57 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:23:01 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:24:41 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-07 22:25:17 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-09 20:42:04 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-09 20:42:10 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-10 17:56:35 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 00:01:25 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 00:01:29 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 00:12:37 - ::1 - Acesso do adminstrador 1 desativado
+2024-05-14 00:12:45 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 00:22:43 - ::1 - Acesso do adminstrador 1 reativado
+2024-05-14 00:22:54 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 18:59:32 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 19:03:49 - ::1 - Exclusão do adminstrador undefined 2024-05-14 19:03:54 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 19:05:15 - ::1 - Exclusão do adminstrador 2 2024-05-14 19:05:22 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 19:06:12 - ::1 - Acesso do adminstrador 1 desativado
+2024-05-14 19:06:28 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 19:06:35 - ::1 - Acesso do adminstrador 1 reativado
+2024-05-14 19:07:17 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 19:07:24 - ::1 - Acesso do adminstrador 1 desativado
+2024-05-14 19:08:52 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-14 19:09:01 - ::1 - Acesso do adminstrador 1 reativado
+2024-05-14 19:10:09 - ::1 - Acesso do adminstrador 1 desativado
+2024-05-14 20:21:10 - ::1 - alha na alteração de dados do adminstrador 1 2024-05-14 20:28:32 - ::1 - alha na alteração de dados do adminstrador 1 2024-05-14 20:28:57 - ::1 - alha na alteração de dados do adminstrador 1 2024-05-26 19:39:10 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-26 19:39:16 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-26 19:39:18 - ::1 - Erro no login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-26 19:44:36 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
+2024-05-26 20:28:50 - ::1 - Falha na alteração de dados do adminstrador 1 2024-05-26 20:30:43 - ::1 - Falha na alteração de dados do adminstrador 1 2024-05-26 20:35:07 - ::1 - Falha na alteração de dados do adminstrador 1 2024-05-26 20:40:47 - ::1 - Falha na alteração de dados do adminstrador 1 2024-05-27 21:33:48 - ::1 - Login do administrador stelamontenegro3@gmail.com pelo dispositivo de ip ::1.
